@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es6",
+        "sourceMap": true,
+        "moduleResolution": "node"
+    },
+    "include": [
+        "index.ts"
+    ],
+    "exclude": [
+        "node_modules",
+        "dist"
+    ]
+}
